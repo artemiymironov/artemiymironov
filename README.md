@@ -12,7 +12,7 @@
 <h2>Контакты:</h2>
 Страничка <a href=https://vk.com/gamekonsolertim/>vkontakte</a>
 <br/>
-<a href="https://github.com/artemiymironov.github.io">GitHub</a>
+<a href="https://github.com/artemiymironov">GitHub</a>
 <br/>
 Телефон: <b>+79104370736</b>
 <br/>
