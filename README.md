@@ -9,9 +9,9 @@
 <p>Студент первого курса ОП История НИУ ВШЭ.С детства за Шруссбери Таун.
 </p>
 <h2>Контакты:</h2>
-Страничка <a href=https://vk.com/gamekonsolertim/>vkontakte</a>
+https://vk.com/gamekonsolertim/>vkontakte</a>
 <br/>
-<a href=https://github.com/artemiymironov>GitHub</a>
+https://github.com/artemiymironov>GitHub</a>
 <br/>
 Телефон: <b>+79104370736</b>
 <br/>
