@@ -1,5 +1,3 @@
-# artemiymironov.github.io
-
 <!doctype html>
 <html>
 <head>
