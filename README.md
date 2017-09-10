@@ -1,10 +1,7 @@
 # artemiymironov.github.io
-My personal page
-<!doctype html>
 <html>
 <head>
 <meta charset="utf-8">
-<title>Моя личная страничка</title>
 </head>
 <body>
 <left><h1>Миронов Артемий</h1></left>
